@@ -12,4 +12,8 @@ run the development server:
 ```bash
 npm run dev
 ```
-and open [localhost:3000](http://localhost:3000) with your browser to see the result.
+and open [localhost:5173](http://localhost:5173) with your browser to see the result.
+
+## Purpose of the project
+
+Put programming into practice with React
