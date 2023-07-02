@@ -1,0 +1,25 @@
+
+
+.ButtonPlay__Click{
+    font-size: 3.2em;
+    border-radius: 20px;
+    letter-spacing: 4px;
+    animation: palpitar 1s infinite;
+    background-color: transparent;
+}
+
+.ButtonPlay__Click:hover{
+    cursor: pointer;
+    transform: scale(1.5);
+} 
+
+@keyframes palpitar{
+    0%{
+        transform: scale(1);
+    }50%{
+        transform: scale(1.2);
+    }100%{
+        transform: scale(1);
+    }
+}
+
