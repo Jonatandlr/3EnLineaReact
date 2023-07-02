@@ -10,6 +10,7 @@ git clone https://github.com/Jonatandlr/3EnLineaReact.git
 
 run the development server: 
 ```bash
+npm install
 npm run dev
 ```
 and open [localhost:5173](http://localhost:5173) with your browser to see the result.
